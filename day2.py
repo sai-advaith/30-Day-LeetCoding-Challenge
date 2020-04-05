@@ -1,5 +1,4 @@
-class Solution:
-    
+class Solution:   
     def isHappy(self, n: int) -> bool:
         def sum_nums(n):
             sum = 0
